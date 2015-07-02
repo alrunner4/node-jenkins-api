@@ -1,5 +1,5 @@
 {
-  "name": "jenkins-api",
+  "name": "jenkins-api-with-errors",
   "version": "0.2.6",
   "description": "Jenkins API written in Node.js",
   "author": "Shawn Jansepar <shawnjan@gmail.com>",
